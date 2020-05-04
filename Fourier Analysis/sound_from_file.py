@@ -1,9 +1,10 @@
 """
 Example of how to import wave files.
 This is done with pysoundfile, which may be installed, as
-it is not a standard package: 'pip install pysoundfile'
+it is not a standard package
+         pastikan package sound file sudah terinstall 'pip install pysoundfile'
 The sound can be played using sounddevice, install with
-'pip install sounddevice'
+         pastikan package sound device sudah terinstall 'pip install sounddevice'
 When the file is imported FFT is applied.
 
 The scritp was in 2017 translated by Sebastian G. Winther-Larsen from a matlab script originally written by Arnt Inge Vistnes
